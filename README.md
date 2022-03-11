@@ -28,4 +28,4 @@ db.Exec(`CREATE TABLE users (
 
 goframe中只需在boot 下面go文件里面加上 `_ github.com/logoove/sqlite`即可在orm使用,不需要任何其他修改
 ### 更新日志
-2021-11-3 v1.13.0 新增更多系统编译,支持sqlite 3.36.0
+2022-03-11 v1.13.0 新增更多系统编译,支持sqlite 3.36.0
